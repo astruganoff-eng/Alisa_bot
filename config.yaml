@@ -1,5 +1,5 @@
 telegram:
-  token: "7691758181:AAGYaxUjVYwS6C7Vh6xqiqEkBgLuMglBq9w"
+  token: "NEW_TOKEN_WILL_BE_IN_DOTENV"
   admin_ids: [5317660746]
   
   
