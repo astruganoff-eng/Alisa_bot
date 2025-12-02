@@ -1,4 +1,5 @@
-# Создайте финальную версию бота
+rm -f bot_live.py
+
 cat > bot_live.py << 'EOF'
 import os
 import requests
@@ -163,6 +164,3 @@ def main():
 if __name__ == "__main__":
     main()
 EOF
-
-# ЗАПУСКАЙТЕ БОТА!
-python3 bot_live.py
